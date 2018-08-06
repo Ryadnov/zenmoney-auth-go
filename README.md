@@ -1,0 +1,1 @@
+# zenmoney-auth-go
